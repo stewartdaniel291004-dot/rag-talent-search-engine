@@ -1,6 +1,6 @@
 # RAG-Powered Talent Search Engine
 
-A Retrieval-Augmented Generation (RAG) prototype for semantic resume search and AI-assisted candidate evaluation. Developed as part of the **Elevvo Pathways Natural Language Processing Internship — Task 8**.
+A Retrieval-Augmented Generation (RAG) prototype for semantic resume search and AI-assisted candidate evaluation. 
 
 ## Project Overview
 
